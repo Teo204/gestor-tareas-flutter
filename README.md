@@ -94,3 +94,24 @@ lib/
  │    └── task_manager_screen.dart
  └── services/
       └── notification_service.dart
+
+
+## Capturas de pantalla
+
+### 1. Pantalla principal con lista de tareas
+![Pantalla principal](screenshots/01-lista-tareas.png)
+
+### 2. AlertDialog para agregar tarea
+![AlertDialog](screenshots/02-alertdialog.png)
+
+### 3. SnackBar de error por campo vacío
+![SnackBar error](screenshots/03-snackbar-error.png)
+
+### 4. SnackBar con opción Deshacer al eliminar tarea
+![SnackBar deshacer](screenshots/04-snackbar-deshacer.png)
+
+### 5. ModalBottomSheet con opciones de tarea
+![BottomSheet](screenshots/05-bottomsheet.png)
+
+### 6. Notificación local programada
+![Notificación](screenshots/06-notificacion.png)
